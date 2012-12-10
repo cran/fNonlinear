@@ -1,12 +1,11 @@
-d41d8cd98f00b204e9800998ecf8427e *ChangeLog
-45587d000a0eef3c3a989243f5d2712a *DESCRIPTION
-2a5c091a4fb531e569efd716a3c5e87e *NAMESPACE
-28dfeed893c5fc66d2f0a67cc332593c *R/NonLinModelling.R
-a2e8edd557ece73cef918111ff653b35 *R/NonLinStatistics.R
+ebf925097a61b195dd4bcbb6a123a860 *ChangeLog
+c6d7e055e0dc5877fa99c777d0af3af0 *DESCRIPTION
+09c3e6ee1c04ff70360f480924df1203 *NAMESPACE
+5d4bd986d98ddda770d6a858ff185503 *R/NonLinModelling.R
+259fb671ff945c117f3ecc5ea534b31d *R/NonLinStatistics.R
 f94d58751ab4c3f10a3df9815d4b8c7c *R/NonLinTests.R
 c430caf381e14079c5e5003c70a2851e *R/zzz.R
 6042b9c5e5bec3ecc1b6959cd2858b64 *inst/COPYRIGHT.html
-8b32ea564a484f83d2bbbabef35dc37e *inst/DocCopying.pdf
 bfc698c089cc5a73a1a6afd4dac35d98 *inst/unitTests/Makefile
 04c09ba0bf843fde22a246c94dc62112 *inst/unitTests/runTests.R
 84a14fc2f02c5233450aeb9bac081497 *inst/unitTests/runit.Gallery.R
