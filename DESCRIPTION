@@ -1,7 +1,7 @@
 Package: fNonlinear
-Version: 2160.77
-Revision: 5415
-Date: 2012-12-10
+Version: 3010.78
+Revision: 5523
+Date: 2013-06-23
 Title: Nonlinear and Chaotic Time Series Modelling
 Author: Diethelm Wuertz and many others, see the SOURCE file
 Depends: R (>= 2.4.0), methods, timeDate, timeSeries, fBasics, fGarch
@@ -15,6 +15,7 @@ Note: Several parts are still preliminary and may be changed in the
 LazyData: yes
 License: GPL (>= 2)
 URL: http://www.rmetrics.org
-Packaged: 2012-12-10 14:22:49 UTC; yankee
+Packaged: 2013-06-23 18:22:10 UTC; yohan
+NeedsCompilation: yes
 Repository: CRAN
-Date/Publication: 2012-12-10 17:26:02
+Date/Publication: 2013-06-24 01:50:51
