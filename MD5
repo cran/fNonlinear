@@ -1,9 +1,9 @@
-c8952c2cd9870a18e5a5cd1e2b4e196b *ChangeLog
-67ec7f37c31b73f94da6beecff448f84 *DESCRIPTION
+c1ce15b874d7c47e97d11bca3d19635f *ChangeLog
+8ab8182561ed853775759aac995e6a74 *DESCRIPTION
 b47c6b9d2bd033133137220c483dbbc5 *NAMESPACE
 445513831a0679f318b2e11cb4493036 *R/NonLinModelling.R
-11945bd046b385f082b7fe694371a631 *R/NonLinStatistics.R
-0c46ef62eb321a3f94e29f914d08bebd *R/NonLinTests.R
+3a7f4a43470d75a195281d7b10cf4147 *R/NonLinStatistics.R
+cf5999e627ae96f6696d0efd8ce86fa3 *R/NonLinTests.R
 26e18cc03d9de67555655424e06ca838 *R/zzz.R
 6042b9c5e5bec3ecc1b6959cd2858b64 *inst/COPYRIGHT.html
 94cbfabc381237d2e79c712ae3ca8947 *inst/unitTests/Makefile
@@ -17,5 +17,6 @@ de9b4a76dee0e0fe9fbfeb27ab86e580 *inst/unitTests/runit.NonLinModelling.R
 542e6631cee08269c7ef7a9b6dded335 *man/NonLinTests.Rd
 2d9b7de870f7e5cd48d32492ef3e7c77 *src/BDSTest.c
 3996e7c16bfb96fad295ee425815cb4d *src/Makevars
-dd18b7e84beeab62f504d54221921d64 *src/Tisean.c
+17fad30961b05d063f308ebf66dfc1a3 *src/Tisean.c
+2e1f85a3a52a3873fe7b796dbd3fa027 *src/init.c
 91d96f5ee62d7425d7bacbce53ed491f *tests/doRUnit.R
