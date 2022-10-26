@@ -1,7 +1,7 @@
 Package: fNonlinear
 Title: Rmetrics - Nonlinear and Chaotic Time Series Modelling
-Date: 2022-07-14
-Version: 4021.80
+Date: 2022-10-18
+Version: 4021.81
 Author: Diethelm Wuertz [aut],
 	Tobias Setz [aut],
 	Yohan Chalabi [aut],
@@ -17,10 +17,7 @@ Imports: methods, stats
 Suggests: RUnit, tcltk
 License: GPL (>= 2)
 URL: https://www.rmetrics.org
-Repository: CRAN
-Repository/R-Forge/Project: rmetrics
-Repository/R-Forge/Revision: 6224
-Repository/R-Forge/DateTimeStamp: 2022-07-19 14:29:47
-Date/Publication: 2022-07-20 08:10:02 UTC
 NeedsCompilation: yes
-Packaged: 2022-07-19 14:52:09 UTC; rforge
+Packaged: 2022-10-26 18:18:17 UTC; paul
+Repository: CRAN
+Date/Publication: 2022-10-26 22:15:09 UTC
