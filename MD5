@@ -1,6 +1,6 @@
-68651ac0ab00b1c1796247173185bedc *ChangeLog
-402b18dc2e12d95e4b347400a2638b74 *DESCRIPTION
-b47c6b9d2bd033133137220c483dbbc5 *NAMESPACE
+6d19b8e414fba92b80ab6972197e3e61 *ChangeLog
+8cd53d1effbf942d2737e639b824592d *DESCRIPTION
+2df5bba84b572f26e7520701b9fbdb2e *NAMESPACE
 445513831a0679f318b2e11cb4493036 *R/NonLinModelling.R
 3a7f4a43470d75a195281d7b10cf4147 *R/NonLinStatistics.R
 cf5999e627ae96f6696d0efd8ce86fa3 *R/NonLinTests.R
@@ -15,7 +15,7 @@ de9b4a76dee0e0fe9fbfeb27ab86e580 *inst/unitTests/runit.NonLinModelling.R
 462b4d33c7c98d3d89ce01bd67161600 *man/NonLinModelling.Rd
 8544439a04e111abbf762102c82ecb59 *man/NonLinStatistics.Rd
 542e6631cee08269c7ef7a9b6dded335 *man/NonLinTests.Rd
-58c7ea8dc718c2d3e5962ac67ec85d29 *src/BDSTest.c
+a3e78c534921f1cf6d68c9942c854d19 *src/BDSTest.c
 3996e7c16bfb96fad295ee425815cb4d *src/Makevars
 17fad30961b05d063f308ebf66dfc1a3 *src/Tisean.c
 2e1f85a3a52a3873fe7b796dbd3fa027 *src/init.c
