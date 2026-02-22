@@ -1,7 +1,7 @@
 Package: fNonlinear
 Title: Rmetrics - Nonlinear and Chaotic Time Series Modelling
-Date: 2024-09-08
-Version: 4041.82
+Date: 2026-02-21
+Version: 4052.83
 Authors@R: c(person(given = "Diethelm",
 		    family = "Wuertz",
                     role = "aut"),
@@ -27,10 +27,10 @@ Suggests: RUnit, tcltk
 License: GPL (>= 2)
 URL: https://www.rmetrics.org
 NeedsCompilation: yes
-Packaged: 2024-09-08 16:40:29 UTC; paul
+Packaged: 2026-02-21 23:06:42 UTC; paul
 Author: Diethelm Wuertz [aut],
   Tobias Setz [aut],
   Yohan Chalabi [aut],
   Paul Smith [cre]
 Repository: CRAN
-Date/Publication: 2024-09-08 20:30:02 UTC
+Date/Publication: 2026-02-22 06:10:08 UTC
